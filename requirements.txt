@@ -2,3 +2,4 @@ secure-smtplib
 requests
 Flask==2.0.2
 APScheduler==3.8.1
+gunicorn==19.7.1
